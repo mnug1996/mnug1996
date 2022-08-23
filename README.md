@@ -34,9 +34,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :seedling: Applying to jobs and continually learning through certificates.
 
-- :zap: In my free time, I love playing the guitar and reading machine learning articles and textbooks.
+- :zap: In my free time I love playing the guitar, going to the gym, and trying new restaurants or recipes!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ted-mathew-nuguid)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ted-mathew-nuguid)
 
 ---
 
